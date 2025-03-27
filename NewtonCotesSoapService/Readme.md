@@ -7,7 +7,7 @@
 ## **Как использовать**
 ### **1. Запуск сервиса**
 ```bash
-git clone https://github.com/NewtonCotes/newton-cotes-soap-service.git
+git clone https://github.com/Binarer/NewtonCotes/newton-cotes-soap-service.git
 cd newton-cotes-soap-service
 dotnet run
 ```
