@@ -1,0 +1,59 @@
+﻿# =========================
+# .NET Core / .NET SDK
+# =========================
+# Бинарные файлы и сборки
+bin/
+obj/
+
+# Локальные настройки Visual Studio
+*.user
+*.vspscc
+
+# Файлы, созданные Visual Studio
+*.suo
+*.njsproj.user
+*.ncrunchsolution
+*.ncrunchproject
+
+# Локальные настройки JetBrains Rider
+.idea/
+*.sln.ide/
+
+# Локальные настройки Visual Studio Code
+.vscode/
+
+# Локальные настройки других IDE
+*.sublime-project
+*.sublime-workspace
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+
+# NuGet пакеты
+packages/
+**/packages/*.nupkg
+
+# Папка для пользовательских данных
+.nuget/
+
+# Файлы, созданные при запуске приложения
+appsettings.Development.json
+appsettings.Production.json
+
+# Локальные переменные окружения
+.env
+.env.local
+
+# Другие файлы
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
